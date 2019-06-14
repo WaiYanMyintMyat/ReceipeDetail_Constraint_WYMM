@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">ConstraintLayoutTest</string>
     <string name="action_settings">Settings</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="feedback">Feedback</string>
+    <string name="food">Barbecue</string>
+    <string name="review">+135 reviewed this</string>
 </resources>
